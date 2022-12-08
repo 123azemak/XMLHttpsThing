@@ -1,0 +1,30 @@
+[
+    {
+        "name":"Bread",
+        "brand":"Wonder",
+        "quantity": 2,
+        "poster":"Mr G",
+        "date":"Setember 1, 2000"
+    },
+    {
+        "name":"Battery",
+        "brand":"Micheal's Battery",
+        "quantity": 12,
+        "poster":"Micheal David Winslow",
+        "date":"December 23rd, 2022"
+    },
+    {
+        "name":"Milk",
+        "brand":"Nesquik",
+        "quantity": 1,
+        "poster":"Joe Biden",
+        "date":"December 7, 2022"
+    },
+    {
+        "name":"Pickle",
+        "brand":"Vlasic",
+        "quantity": 1,
+        "poster":"Jesse Silver",
+        "date":"April 13, 2009"
+    }
+]
